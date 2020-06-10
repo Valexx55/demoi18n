@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EjemplI18n</string>
+    <string name="saludo" translatable="false">CIao</string>
+</resources>
